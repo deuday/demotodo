@@ -1,0 +1,13 @@
+.banner{
+background-color:darkolivegreen;
+width:100%;
+height:150%;
+margin-bottom:100px;
+}
+.banner-text{
+top:20%;
+left:50%;
+text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+position:absolute;
+transform:scale(2, 3);
+}
